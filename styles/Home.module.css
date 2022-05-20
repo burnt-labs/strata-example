@@ -12,6 +12,12 @@
   align-items: center;
 }
 
+.walletButtons {
+  margin-top: 1.5rem;
+  display: flex;
+  gap: 2rem;
+}
+
 .footer {
   display: flex;
   flex: 1;
